@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/daily_view_fragment"
+    tools:context="netdb.courses.softwarestudio.freeblock.DailyViewFragment
+    ">
+
+    <!-- TODO: Update blank fragment layout -->
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/daily_time_scope"
+        android:numColumns="6"
+        android:background="@drawable/setevent_background"
+        android:layout_gravity="left|top" />
+</FrameLayout>
+<!-- From: file:/D:/Android/workspace/FreeBlockClient/final-app/app/src/main/res/layout/fragment_daily_view.xml -->

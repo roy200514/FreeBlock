@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="netdb.courses.softwarestudio.freeblock.WeekActivity">
+    <item android:id="@+id/action_delete_request"
+        android:icon="@drawable/ic_action_discard"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_add_request"
+        android:icon="@drawable/ic_action_accept"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_delete_friend"
+        android:icon="@drawable/ic_action_discard"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add_friend"
+        android:icon="@drawable/ic_action_new"
+        app:showAsAction="ifRoom" />
+
+</menu>
+<!-- From: file:/D:/Android/workspace/FreeBlockClient/final-app/app/src/main/res/menu/menu_friend_list.xml -->

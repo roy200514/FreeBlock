@@ -1,0 +1,9 @@
+D:\Programs\Software_Studio\final-app\app\build\intermediates\classes\debug
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-16622f2910aa4516818f673523420b1f2e344443.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.01.06-fc8c21c82d79e744a63b823a28cfad6418233bc2.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2e87f2b24b395f2e294e86a4df27c2d3ee0295cc.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\gson-2.3.1-9c41e802d6eba11ceebdc71f45275e1f183788b5.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-b83be65f6ac689750b5d6860ac6e8c81a4aecfd6.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-247dd0c61589ff664399696ec8253b4998fda1bb.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-a6f6d8e8057e273d4ab9436d2954b7fe6239afb8.jar
+D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-6a0700a0ecb6a20218899b93fc663ec98449c11b.jar

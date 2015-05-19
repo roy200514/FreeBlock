@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/myPrimaryColor"
+    android:id="@+id/fragment_friend_layout"
+    tools:context="netdb.courses.softwarestudio.freeblock.FriendFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/fragment_friend_request_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="FriendRequest"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:background="@color/myBackgroundColor" />
+    <ListView
+        android:id="@+id/fragment_friend_request"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_below="@id/fragment_friend_request_title" />
+
+    <TextView
+        android:id="@+id/fragment_friend_list_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="FriendList"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_below="@id/fragment_friend_request"
+        android:background="@color/myBackgroundColor" />
+    <ListView
+        android:id="@+id/fragment_friend_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fragment_friend_list_title" />
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/workspace/FreeBlockClient/final-app/app/src/main/res/layout/fragment_friend.xml -->

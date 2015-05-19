@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- server URL -->
+    <string name="rest_server_url">http://free-block.appspot.com/</string>
+
+    <!-- general strings -->
+    <string name="app_name">FreeBlock</string>
+    <string name="hello_world">Welcome</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_event">Add Event</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_register">Register</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <!-- for login/register activity -->
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_userID">Your ID</string>
+    <string name="prompt_password">Your Password</string>
+    <string name="prompt_phone">Your Phone Number</string>
+    <string name="prompt_name">Your Name</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_id_or_pw">must contain at least 4 characters</string>
+    <string name="error_invalid_phone">Phone number is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="EditTextHint">Event</string>
+    <string name="title_activity_set_event">SetEvent</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <!-- for main activity -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="about_fragment">National Ting Hua University\nComputer Science Department\nSoftware Studio\n\nCredit:\nRoy\nFrank\nMark\n\nSpecial Thanks:\nProfessor Wu\nTAs\n\nFreeBlock ® All Rights Reserved</string>
+    <string name="filter_fragment">Choose people you want to watch</string>
+    <string name="search_friend_id">Search a ID</string>
+    <string name="daily_detail_title">What Others are doing</string>
+
+</resources>

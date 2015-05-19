@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Programs\Software_Studio\final-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2e87f2b24b395f2e294e86a4df27c2d3ee0295cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-16622f2910aa4516818f673523420b1f2e344443.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Software_Studio\final-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-247dd0c61589ff664399696ec8253b4998fda1bb.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Software_Studio\final-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-6a0700a0ecb6a20218899b93fc663ec98449c11b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.01.06\53ab1283a2126bf375226b379fd9d2d259fd80d8\com.android.volley-2015.01.06.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53ab1283a2126bf375226b379fd9d2d259fd80d8">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.01.06-fc8c21c82d79e744a63b823a28cfad6418233bc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\gson-2.3.1-9c41e802d6eba11ceebdc71f45275e1f183788b5.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Software_Studio\final-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-a6f6d8e8057e273d4ab9436d2954b7fe6239afb8.jar" />
+    </item>
+    <item
+        jar="D:\Programs\Software_Studio\final-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\Programs\Software_Studio\final-app\app\build\intermediates\pre-dexed\debug\classes-b83be65f6ac689750b5d6860ac6e8c81a4aecfd6.jar" />
+    </item>
+
+</items>

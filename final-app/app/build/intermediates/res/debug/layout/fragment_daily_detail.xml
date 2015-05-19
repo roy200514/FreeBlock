@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="netdb.courses.softwarestudio.freeblock.DailyDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/daily_detail_title_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/daily_detail_title" />
+
+    <ListView
+        android:id="@+id/daily_detail_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/daily_detail_title_id" />
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/workspace/FreeBlockClient/final-app/app/src/main/res/layout/fragment_daily_detail.xml -->
